@@ -31,7 +31,7 @@ const tailLayout = {
 };
 
 const Demo = () => {
-  const [form] = Form.useForm();
+ 
 
   const onGenderChange = value => {
     switch (value) {
